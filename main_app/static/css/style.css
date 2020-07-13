@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, p {
+    text-align: center;
+    margin-top: 30px;
+}
+
+label, input {
+    margin-left: 600px;
+}
+
+#byTwo {
+    color: white;
+    background-color: blue;
+    width: 75px;
+    height: 25px;
+    border-radius: 2px;
+    margin-left: 680px;
+    margin-top: 20px;
+}
+
+#byTwo {
+    color: white;
+    background-color: green;
+    width: 75px;
+    height: 25px;
+    border-radius: 2px;
+    margin-left: 680px;
+    margin-top: 20px;
+}
+
+#reset {
+    color: white;
+    background-color: red;
+    width: 50px;
+    height: 25px;
+    border-radius: 2px;
+    margin-left: 680px;
+    margin-top: 20px;
+}
